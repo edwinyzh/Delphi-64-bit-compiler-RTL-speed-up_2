@@ -1,7 +1,7 @@
 # Delphi-64-bit-compiler-RTL-speed-up_2
 Updated to stable branch Intel IPP TBB 24 march 2021
 
-Delphi 64 bit compiler MM, RTL, WEB patches for performances
+Delphi 64 bit compiler MM, RTL, WEB patches for performance
 
 Object Pascal wrappers from Intel Integrated Performance Primitives and Intel Threading Building Blocks royalty-free packages
 
