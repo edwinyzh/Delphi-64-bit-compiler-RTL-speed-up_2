@@ -30,11 +30,13 @@ License.txt for legal terms
 
 If you want to enable zlib speed up into your WebBroker apps, add one line of code in AfterDispatch event:
 
-procedure TWebModule.WebModuleAfterDispatch(Sender: TObject; Request: TWebRequest; Response: TWebResponse; var Handled: Boolean);
-begin
-Response.ZlibDeflate;
-end;
-The library is well tested, but if you found any trouble please notify me.
+procedure TWebModule.WebModuleAfterDispatch(Sender: TObject; Request: TWebRequest; Response: TWebResponse; var Handled: Boolean);<br>
+begin<br>
+Response.ZlibDeflate;<br>
+end;<br>
+
+The library is well tested, but if you found any trouble please notify me.<br>
+In a modern CPU base, a well writtene multithreaded app can obtain a boost until 10x<br> 
 
 Thank you and best regards
 
