@@ -5,7 +5,7 @@ Delphi 64 bit compiler MM, RTL, WEB patches for performances
 
 Object Pascal wrappers from Intel Integrated Performance Primitives and Intel Threading Building Blocks royalty-free packages
 
-https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/ipp.html
+https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/ipp.html<br>
 https://github.com/oneapi-src/oneTBB
 
 Copyright 24 March 2021 Roberto Della Pasqua
