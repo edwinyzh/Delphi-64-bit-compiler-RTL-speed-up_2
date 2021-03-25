@@ -35,7 +35,7 @@ begin<br>
 Response.ZlibDeflate;<br>
 end;<br>
 
-The library is well tested, but if you found any trouble please notify me.<br>
+The library is well tested, but if you found any trouble please notify me<br>
 In a modern CPU base, a well writtene multithreaded app can obtain a boost until 10x<br> 
 
 Thank you and best regards
