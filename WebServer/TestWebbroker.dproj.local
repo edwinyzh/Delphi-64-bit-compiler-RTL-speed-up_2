@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/02 18:21:35.000.221,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/06 15:22:30.000.638,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\FormUnit2.pas</Transaction>
+    <Transaction>2020/03/06 15:22:30.000.794,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\WebModuleUnit3.pas</Transaction>
+    <Transaction>2020/03/10 11:39:01.000.480,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\WebModuleUnit3.pas</Transaction>
+    <Transaction>2020/03/19 16:51:01.000.086,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\WebModuleUnit3.pas</Transaction>
+    <Transaction>2020/03/19 16:51:01.000.266,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\ServerConst2.pas</Transaction>
+    <Transaction>2020/08/31 16:06:13.000.380,=S:\Win2016\Documenti\Embarcadero\Studio\Projects\FormUnit2.pas</Transaction>
+    <Transaction>2020/08/31 16:06:14.000.216,=S:\Win2016\Documenti\Embarcadero\Studio\Projects\WebModuleUnit3.pas</Transaction>
+    <Transaction>2020/12/04 16:39:31.000.380,=S:\Win2016\Documenti\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2021/03/26 18:45:17.000.195,=S:\Win2016\Documenti\Embarcadero\Studio\Projects\FormUnit2.pas</Transaction>
+    <Transaction>2021/03/26 18:45:17.000.373,=S:\Win2016\Documenti\Embarcadero\Studio\Projects\WebModuleUnit3.pas</Transaction>
+    <Transaction>2021/03/26 18:45:45.000.350,C:\IntelMM2\WebServer\FormS2.pas=S:\Win2016\Documenti\Embarcadero\Studio\Projects\FormUnit2.pas</Transaction>
+    <Transaction>2021/03/26 18:45:45.000.350,C:\IntelMM2\WebServer\FormS2.dfm=S:\Win2016\Documenti\Embarcadero\Studio\Projects\FormUnit2.dfm</Transaction>
+    <Transaction>2021/03/26 18:52:03.000.778,C:\IntelMM2\WebServer\WebModuleUnitS2.pas=S:\Win2016\Documenti\Embarcadero\Studio\Projects\WebModuleUnit3.pas</Transaction>
+    <Transaction>2021/03/26 18:52:03.000.778,C:\IntelMM2\WebServer\WebModuleUnitS2.dfm=S:\Win2016\Documenti\Embarcadero\Studio\Projects\WebModuleUnit3.dfm</Transaction>
+    <Transaction>2021/03/26 18:52:15.000.859,C:\IntelMM2\WebServer\TestWebbroker.dproj=S:\Win2016\Documenti\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

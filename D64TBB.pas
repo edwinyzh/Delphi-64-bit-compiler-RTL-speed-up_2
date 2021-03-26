@@ -49,7 +49,7 @@ begin
   DZero(Result, Size);
   {$ENDIF}
   {$IFDEF WIN32}
-  FillChar(Result, Size, 0);
+  FillChar(Result^, Size, 0);
   {$ENDIF}
 end;
 
